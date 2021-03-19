@@ -1,5 +1,7 @@
 # marksite
-Site creator powered by Markdown
+Site creator powered by Markdown.
+
+It uses: pzplUI, Parsedown, PHP, MySQL and Composer
 
 ## Get Started
 1. Make sure you have: PHP 7.0+, MySQL 8.0+, Composer
