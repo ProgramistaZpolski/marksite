@@ -1,0 +1,14 @@
+{
+	"short_name": "Marksite",
+	"name": "Marksite",
+	"icons": [
+		{
+			"src": "/assets/favicon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		}
+	],
+	"start_url": "/?installed=yes",
+	"background_color": "#fafafa",
+	"theme_color": "#fafafa"
+}
