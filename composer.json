@@ -1,0 +1,9 @@
+{
+	"name": "programistazpolski/marksite",
+	"description": "A Markdown website creator",
+	"autoload": {
+		"classmap": [
+			"./"
+		]
+	}
+}
