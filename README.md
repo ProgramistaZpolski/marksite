@@ -1,2 +1,2 @@
 # marksite
-Site generator powered by Markdown
+Site creator powered by Markdown
